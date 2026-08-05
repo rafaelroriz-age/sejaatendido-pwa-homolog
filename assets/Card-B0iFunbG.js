@@ -1,0 +1,1 @@
+import{j as s,S as d,R as t,C as e}from"./index-DnwNEKAx.js";function p({children:r,style:a,padded:o=!0}){return s.jsx("div",{style:{backgroundColor:e.card,borderRadius:t.lg,boxShadow:"0 4px 12px rgba(0,0,0,0.06)",...o?{padding:d.lg}:{},...a},children:r})}export{p as C};
